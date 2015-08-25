@@ -1,6 +1,5 @@
 # venicerobo.github.io
 Official home of FTC Team 3493.
-<meta name="google-site-verification" content="SPONTDIqPpUWXm2VCJwgA6OnUcxJ0FguBHNcPTCJyBc" />
 
 ## Navigation
 #### About Us & FIRST
